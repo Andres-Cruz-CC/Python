@@ -1,2 +1,8 @@
 # Variables
-Las variables en python son en las que vamos almacenar los elementos, valores que va a utlizar nuestro programa
+Las variables son aquellos elementos en los cuales vamoas almacenar numeros, texto, parametros o cualquier otro argumento que vayamos a utilizar en nuestro programa.
+
+```python
+a = 0
+b = "Hola"
+d = a * b
+```
